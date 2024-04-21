@@ -1,2 +1,2 @@
 # amazon-clone
-amazon clone by Vikram
+amazon clone by yashaswini
